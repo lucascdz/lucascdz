@@ -1,3 +1,4 @@
+Hi everyone,<br/><br/>
 My name is Lucas Dezotti, I'm associate professor of Latin Language and Classics at Universidade Federal da Paraíba – UFPB (Brazil).<br/><br/>
 I'm currently working towards a PhD in Linguistics at Universidade Estadual Paulista – UNESP (Brazil). 
 The focus of my research is on using methods of digitizing legacy dictionaries to build an enhanced lexicographical tool for learning and teaching latin.<br/><br/>
